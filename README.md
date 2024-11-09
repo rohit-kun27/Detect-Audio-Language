@@ -1,0 +1,2 @@
+In this project, we will record audio by using Web Audio API and send it to the backend server for processing but for that we have to enable Google Cloud Speech-to-Text API. We have to generate an API key to authenticate our requests.
+To generate API key go to Google Cloud Platform(GCP),make an account , then enable Cloud Speech-To-Text API, after enabling go to credentials, create a service account to download key in json format.  
